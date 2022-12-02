@@ -1,0 +1,81 @@
+body{
+    background-color: antiquewhite;
+}
+u{
+    font-size: 500%;
+}
+.buttonmain{ 
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 100px;
+    overflow:auto;
+  
+   gap: 600px;
+  }
+  /* .button {
+    display: inline-block;
+    padding: 15px 1px;
+    font-size: 24px;
+    cursor: pointer;
+    text-align: center;
+    outline: none;
+    color: #fff;
+    background-color:grey;
+    border: none;
+    border-radius: 5px 5px;
+    box-shadow: 0 9px rgb(27, 2, 2);
+  } */
+  a{
+    text-decoration: none;
+    color: black;
+  
+  }
+  .button{
+    background-color: #fbeee0;
+    border: 2px solid #422800;
+    border-radius: 30px;
+    box-shadow: #422800 4px 4px 0 0;
+    color: #422800;
+    cursor: pointer;
+    display: inline-block;
+    font-weight: 600;
+    font-size: 18px;
+    padding: 12px 80px;
+    line-height: 50px;
+    text-align: center;
+    text-decoration: none;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button1{
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 12px 80px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  }
+  
+  .button1:hover{
+        background-color: aliceblue;
+  }
+  
+  .button:hover{
+  background-color: aliceblue;
+  }
+  h3{
+    color: #39110B;
+  }
+  
